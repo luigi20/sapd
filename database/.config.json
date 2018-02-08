@@ -1,0 +1,7 @@
+
+	{
+  		"host": "localhost",
+  		"usuario": "root",
+  		"senha": "123456",
+  		"banco": "SAPD"
+	}
